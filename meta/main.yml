@@ -11,7 +11,7 @@ galaxy_info:
   platforms:
   - name: SLES
     versions:
-    - 15SP1
+    - '15SP1'
 
   galaxy_tags: []
 

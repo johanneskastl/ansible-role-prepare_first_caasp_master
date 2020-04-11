@@ -1,3 +1,5 @@
+![Ansible Lint](https://github.com/johanneskastl/ansible-role-prepare_first_caasp_master/workflows/Ansible%20Lint/badge.svg)
+
 prepare_first_caasp_master
 =========
 

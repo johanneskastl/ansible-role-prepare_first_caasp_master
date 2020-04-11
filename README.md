@@ -1,3 +1,5 @@
+![Ansible Lint](https://github.com/johanneskastl/ansible-role-prepare_first_caasp_master/workflows/Ansible%20Lint/badge.svg)
+
 prepare_first_caasp_master
 =========
 
@@ -33,4 +35,4 @@ BSD-3-Clause
 Author Information
 ------------------
 
- am Johannes Kastl, reachable via kastl@b1-systems.de.
+I am Johannes Kastl, reachable via kastl@b1-systems.de.

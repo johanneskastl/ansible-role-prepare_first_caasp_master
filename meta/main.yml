@@ -1,7 +1,7 @@
 galaxy_info:
-  role_name: ''
+  role_name: 'prepare_first_caasp_master'
   author: 'Johannes Kastl'
-  description: ''
+  description: 'Prepare the first master of a SUSE CaaSP setup'
   company: 'B1 Systems GmbH'
 
   license: 'BSD-3-Clause'
@@ -9,9 +9,9 @@ galaxy_info:
   min_ansible_version: 2.4
 
   platforms:
-  - name: SUSE
+  - name: SLES
     versions:
-    - 15SP1
+    - '15SP1'
 
   galaxy_tags: []
 

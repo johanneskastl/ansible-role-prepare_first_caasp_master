@@ -1,5 +1,6 @@
 galaxy_info:
   role_name: 'prepare_first_caasp_master'
+  namespace: 'johanneskastl'
   author: 'Johannes Kastl'
   description: 'Prepare the first master of a SUSE CaaSP setup'
   company: 'B1 Systems GmbH'

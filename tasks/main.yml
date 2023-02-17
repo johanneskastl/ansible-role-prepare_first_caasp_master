@@ -2,7 +2,7 @@
 # tasks file for prepare_first_caasp_master
 
 - name: "Install SUSE-CaaSP-Management pattern"
-  zypper:
+  community.general.zypper:
     name: "SUSE-CaaSP-Management"
     type: "pattern"
     state: "present"

@@ -25,7 +25,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: 'johanneskastl.prepare_first_caasp_master' }
+         - role: 'johanneskastl.prepare_first_caasp_master'
 
 License
 -------
